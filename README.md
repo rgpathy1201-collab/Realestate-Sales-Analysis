@@ -54,5 +54,18 @@ It combines **Python, MySQL, and Power BI** to build a complete data pipeline �
 ---
 
 ## 📂 Repository Structure
+Realestate-Sales-Analysis/
+│
+├── data/ # Raw & processed datasets
+│ ├── Luxury_Housing_Bangalore.zip # Original dataset
+│ ├── housing_cleaned.zip # Cleaned dataset
+│
+├── notebooks/ # Jupyter notebooks
+│ └── codes.ipynb # Data cleaning, SQL load & analysis
+│
+├── reports/ # Analysis & reports
+│ ├── Luxury_house_sales_analysis.zip # Project analysis files
+│
+├── README.md # Project documentation
 
 
