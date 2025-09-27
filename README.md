@@ -39,7 +39,7 @@ It combines **Python, MySQL, and Power BI** to build a complete data pipeline �
    - Top 5 builders by revenue  
 
 5. **Visualization (Power BI)**  
-   - Built interactive dashboards answering key business questions.  
+   - Created a fully interactive Power BI dashboard with key business insights powered by DAX measures, featuring a separate page that highlights quarterly luxury housing bookings (“Market Trends”) based on the        SQL query dataset, as well.
    - Visuals include: Line chart, Bar/Column charts, Scatter plots, Pie/Donut charts, Matrix tables, Maps, and KPI cards.
 
 ---
